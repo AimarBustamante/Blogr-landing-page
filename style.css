@@ -250,6 +250,16 @@ li{
     color: var(--GrayishBlue);
 }
 
+.attribution{
+    color: var(--White);
+    line-height: 1.5;
+    padding-bottom: 20px;
+}
+
+.attribution a:hover{
+    color: var(--LightRed);
+}
+
 /** ---- Responsive - PC ---- **/
 
 @media screen and (min-width: 550px){
