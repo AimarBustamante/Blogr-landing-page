@@ -150,11 +150,11 @@ li{
 
 .designed__illustration{
     height: 350px;
-    background: url("../images/illustration-editor-mobile.svg") no-repeat center/ contain;
+    background: url("./images/illustration-editor-mobile.svg") no-repeat center/ contain;
 }
 
 .designed__illustration--right{
-    background-image: url("../images/illustration-laptop-mobile.svg");
+    background-image: url("./images/illustration-laptop-mobile.svg");
     background-size: cover;
     margin-bottom: 25px;
 }
