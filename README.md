@@ -2,6 +2,8 @@
 
 ![Design preview for the Blogr landing page coding challenge](./design/desktop-preview.jpg)
 
+Live Site: http://127.0.0.1:5500/index.html
+
 ## Welcome! 👋
 
 Thanks for checking out this front-end coding challenge.
